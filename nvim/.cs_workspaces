@@ -1,0 +1,6 @@
+CS_LAST_WORKSPACE: myvimrc
+CS_WORKSPACE_BEGIN: myvimrc
+badd +1 init.vim
+edit init.vim
+edit init.vim
+CS_WORKSPACE_END: myvimrc
